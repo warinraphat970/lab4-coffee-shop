@@ -1,0 +1,24 @@
+{
+  "name": "lab4-coffee-shop",
+  "version": "1.0.0",
+  "description": "dessertmenu in coffee shop ",
+  "homepage": "https://github.com/warinraphat970/lab4-coffee-shop#readme",
+  "bugs": {
+    "url": "https://github.com/warinraphat970/lab4-coffee-shop/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warinraphat970/lab4-coffee-shop.git"
+  },
+  "license": "ISC",
+  "author": "warinraphat chemeiam",
+  "type": "commonjs",
+  "main": " src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.1",
+    "express": "^5.2.1"
+  }
+}
